@@ -22,6 +22,15 @@ h1, h2, h3, h4, h5, p, b, span {
   position: fixed;
   left: 10px;
   bottom: 10px; }
+  .main-left img {
+    width: 120px;
+    height: auto;
+    transition: 0.3s; }
+    .main-left img:hover {
+      transform: scale(1.2); }
+
+.scaling-image img:hover {
+  transform: scale(1.2); }
 
 .footer-contain {
   background-color: transparent;
@@ -29,6 +38,8 @@ h1, h2, h3, h4, h5, p, b, span {
   justify-content: space-between;
   align-items: center;
   font-family: "Roboto", sans-serif; }
+  .footer-contain img:hover {
+    transform: scale(1.2); }
 
 .section {
   height: 100vh;
