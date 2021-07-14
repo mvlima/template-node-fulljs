@@ -10,8 +10,8 @@ Para instalar as dependências:
 `npm i`
 
 Para iniciar em modo de desenvolvimento:
-`webpack start`
-`sass start`
+`npm run webpack`
+`npm run sass`
 
 ## É aconselhado ter instalado NODEJS versão 14.x em diante.
 
