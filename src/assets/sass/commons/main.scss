@@ -42,6 +42,15 @@ h1, h2, h3, h4, h5, p, b, span {
   }
 }
 
+.scaling-image {
+  & img {
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}
+
 .footer-contain {
   background-color: transparent;
   display: flex;
@@ -54,5 +63,5 @@ h1, h2, h3, h4, h5, p, b, span {
     &:hover {
         transform: scale(1.2);
     }
-}
+  }
 }
