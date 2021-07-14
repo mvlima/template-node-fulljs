@@ -1,17 +1,22 @@
 # Gama Academy :)
 ## Template Node FullJS
 
-Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
+Template em Node feito em totalmente JavaScript como atividade de Boas Práticas do programa Hiring Coders da Gama Academy e da VTEX.
+
+Para iniciar um novo projeto com base neste:
+`git clone https://github.com/mvlima/template-node-fulljs`
 
 Para instalar as dependências:
 `npm i`
 
 Para iniciar em modo de desenvolvimento:
-`npm start`
+`webpack start`
+`sass start`
 
-## Aconselhado ter instalado NODEJS versão 14.x em diante.
+## É aconselhado ter instalado NODEJS versão 14.x em diante.
 
-Para instalar o node [clique aqui](https://nodejs.org/en/)
+Para instalar o node: [clique aqui](https://nodejs.org/en/)
 
-## Professor Douglas Morais
+Veja este projeto online: [clique aqui](url)
+
+## Marcus Vieira
